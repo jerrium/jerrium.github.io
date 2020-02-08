@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to iPicBox
 
-You can use the [editor on GitHub](https://github.com/jerrium/jerrium.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Lock your photos and videos with password / touch ID / face ID.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Download iPicBox to join millions of users to protect your private photos and videos safely! Awesome!
 
-### Markdown
+iPicBox protects your private photos and videos by passcode protection, fingerprint touch ID and data encryption. It's easy to use and safe for storing your private photos, and it provides free unlimited storage in-app.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+==========================
+Main Features
+- Cloud Backup / Restore - Dropbox. Encrypted with AES on your own Dropbox
+- Lock album (folder) / photo / video independently
+- Break-in Alert : Photo + GPS + Email Notification(Invader photo attached)
+- Reset password / touch ID / face ID when you forget
+- Support HEIC / JPG / VIDEO / GIF / Live Photo
+- Unlimited hierarchy album (folder)
+- Different password for different album (folder)
+- Hide private data in app with encrypted data
+- Password / Touch ID / Face ID protection
+- Change folder cover 
+- Change app theme
+- Free unlimited storage
+- Take photo and Video in-app
+- Trash folder to store deleted data temporarily
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jerrium/jerrium.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* * * * * *
+All your photos stored in iPicBox are 100% private. Your photos are only stored on your device and are never uploaded to our servers. We have no ability to remotely access your photos.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with iPicBox? Check out jerrium@qq.com and we’ll help you sort it out.
