@@ -26,6 +26,6 @@ Main Features
 * * * * * *
 All your photos stored in iPicBox are 100% private. Your photos are only stored on your device and are never uploaded to our servers. We have no ability to remotely access your photos.
 
-### Support or Contact
+### Tech Support or Contact
 
 Having trouble with iPicBox? Check out jerrium@qq.com and we’ll help you sort it out.
